@@ -20,6 +20,7 @@
     <label class="form-check-label">
       <input type="radio" value="soda" v-model="searchIndex"/>
       Sodas
+      
     </label>
     <br>
     <select v-model="selectedSearch">
